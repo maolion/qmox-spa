@@ -1,7 +1,7 @@
 {
   "name": "qmox-spa",
   "version": "0.0.1",
-  "description": "A qmox single-page-application framework based on react",
+  "description": "qmox SPA(single-page-application, 单页应用程序) 框架, 基于 react",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
