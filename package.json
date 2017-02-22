@@ -1,17 +1,18 @@
 {
-  "name": "qmox-spa",
+  "name": "uniapp-spa",
   "version": "0.0.1",
-  "description": "qmox SPA(single-page-application, 单页应用程序) 框架, 基于 react",
+  "description": "uniapp SPA(single-page-application, 单页应用程序) 框架, 基于 react",
   "main": "index.js",
   "scripts": {
+    "deploy-dev": "npm publish --tag dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/maolion/qmox-spa.git"
+    "url": "git+ssh://git@github.com/maolion/uniapp-spa.git"
   },
   "keywords": [
-    "qmox",
+    "uniapp",
     "spa",
     "single-page-application",
     "react"
@@ -19,7 +20,7 @@
   "author": "maolion.j@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/maolion/qmox-spa/issues"
+    "url": "https://github.com/maolion/uniapp-spa/issues"
   },
-  "homepage": "https://github.com/maolion/qmox-spa#readme"
+  "homepage": "https://github.com/maolion/uniapp-spa#readme"
 }
