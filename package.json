@@ -1,6 +1,6 @@
 {
   "name": "uniapp-spa",
-  "version": "0.0.1",
+  "version": "0.1.0-dev.1",
   "description": "uniapp SPA(single-page-application, 单页应用程序) 框架, 基于 react",
   "main": "index.js",
   "scripts": {
