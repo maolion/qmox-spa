@@ -1,2 +1,1 @@
-# uniapp SPA(single-page-application, 单页应用程序) 框架
-
+# Uniapp web 端应用程序 框架, 基于 react

@@ -1,7 +1,7 @@
 {
-  "name": "uniapp-spa",
+  "name": "uniapp-web",
   "version": "0.1.0-dev.1",
-  "description": "uniapp SPA(single-page-application, 单页应用程序) 框架, 基于 react",
+  "description": "Uniapp web 端应用程序 框架, 基于 react",
   "main": "index.js",
   "scripts": {
     "deploy-dev": "npm publish --tag dev",
@@ -9,10 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/maolion/uniapp-spa.git"
+    "url": "git+ssh://git@github.com/maolion/uniapp-web.git"
   },
   "keywords": [
     "uniapp",
+    "web framework",
     "spa",
     "single-page-application",
     "react"
@@ -20,7 +21,7 @@
   "author": "maolion.j@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/maolion/uniapp-spa/issues"
+    "url": "https://github.com/maolion/uniapp-web/issues"
   },
-  "homepage": "https://github.com/maolion/uniapp-spa#readme"
+  "homepage": "https://github.com/maolion/uniapp-web#readme"
 }
